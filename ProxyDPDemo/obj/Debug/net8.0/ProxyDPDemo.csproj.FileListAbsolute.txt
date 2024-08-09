@@ -1,0 +1,14 @@
+C:\Users\subhashish.mahapatra\Desktop\C#\ProxyDPDemo\bin\Debug\net8.0\ProxyDPDemo.exe
+C:\Users\subhashish.mahapatra\Desktop\C#\ProxyDPDemo\bin\Debug\net8.0\ProxyDPDemo.deps.json
+C:\Users\subhashish.mahapatra\Desktop\C#\ProxyDPDemo\bin\Debug\net8.0\ProxyDPDemo.runtimeconfig.json
+C:\Users\subhashish.mahapatra\Desktop\C#\ProxyDPDemo\bin\Debug\net8.0\ProxyDPDemo.dll
+C:\Users\subhashish.mahapatra\Desktop\C#\ProxyDPDemo\bin\Debug\net8.0\ProxyDPDemo.pdb
+C:\Users\subhashish.mahapatra\Desktop\C#\ProxyDPDemo\obj\Debug\net8.0\ProxyDPDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\subhashish.mahapatra\Desktop\C#\ProxyDPDemo\obj\Debug\net8.0\ProxyDPDemo.AssemblyInfoInputs.cache
+C:\Users\subhashish.mahapatra\Desktop\C#\ProxyDPDemo\obj\Debug\net8.0\ProxyDPDemo.AssemblyInfo.cs
+C:\Users\subhashish.mahapatra\Desktop\C#\ProxyDPDemo\obj\Debug\net8.0\ProxyDPDemo.csproj.CoreCompileInputs.cache
+C:\Users\subhashish.mahapatra\Desktop\C#\ProxyDPDemo\obj\Debug\net8.0\ProxyDPDemo.dll
+C:\Users\subhashish.mahapatra\Desktop\C#\ProxyDPDemo\obj\Debug\net8.0\refint\ProxyDPDemo.dll
+C:\Users\subhashish.mahapatra\Desktop\C#\ProxyDPDemo\obj\Debug\net8.0\ProxyDPDemo.pdb
+C:\Users\subhashish.mahapatra\Desktop\C#\ProxyDPDemo\obj\Debug\net8.0\ProxyDPDemo.genruntimeconfig.cache
+C:\Users\subhashish.mahapatra\Desktop\C#\ProxyDPDemo\obj\Debug\net8.0\ref\ProxyDPDemo.dll
